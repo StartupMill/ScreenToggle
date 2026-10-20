@@ -1,5 +1,7 @@
 # ScreenToggle
 
+![ScreenToggle: your displays, one simple switch](images/screentoggle-banner.png)
+
 Disconnect and reconnect your Mac's displays from the menu bar, without unplugging cables. ScreenToggle is a small native macOS app from [StartupMill](https://startupmill.co).
 
 **[Visit screentoggle.com](https://screentoggle.com/)** · **[Download ScreenToggle for Mac](https://screentoggle.com/)** · **[Browse releases](https://github.com/StartupMill/ScreenToggle/releases)**
@@ -17,6 +19,14 @@ This is an early-access build signed with Developer ID, but **not notarized by A
 - Use Pro to save up to three display presets and apply them with Apple Focus or Shortcuts.
 
 ScreenToggle releases a display from your Mac; changing to another computer's monitor input depends on your monitor. Display behaviour varies with your Mac, macOS version, monitor and adapter. Mirrored displays are not supported.
+
+## See how it works
+
+Illustrations of disconnecting and reconnecting a display from the menu bar.
+
+| Disconnect | Reconnect |
+| --- | --- |
+| ![Illustration of disconnecting an extra display from the menu bar](images/disconnect.jpg) | ![Illustration of reconnecting an extra display from the menu bar](images/reconnect.jpg) |
 
 ## Install
 
